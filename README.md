@@ -32,4 +32,4 @@ Business objective: The objective is to identify the best sectors, countries, an
 How do you approach the analysis? What are the deliverables?
 The entire assignment is divided into checkpoints to help you navigate. For each checkpoint, you are advised to fill in the tables into the spreadsheet Investments.xlsx.
 
-**All the code can be found in the Jupyter notebook. For every checkpoint, code is written in one well-commented Jupyter notebook
+### All the code can be found in the Jupyter notebook. For every checkpoint, code is written in one well-commented Jupyter notebook
