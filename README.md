@@ -1,4 +1,4 @@
-# Spark-funds
+# spark-funds-Investment-Data-Analysis-EDA
 A complete case study and business analysis for Spark Funds, an asset management company
 
 Spark-Fund_Investment-Analysis
